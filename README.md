@@ -1,11 +1,11 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=40px></picture> **About me :**
 **I'm a Fresh Graduate in Computers & Systems Engineering, passionate to try new things.**
 
-**🔭 Passionate about web3 technologies, with experience in blockchain, NFTs, and smart contracts.**
-**🚀 Currently focused on Ethereum, and have worked on projects such as NFT minting Dapps, fund smart contracts, and lottery smart contracts.**
-**🤩Worked on full-stack projects using React js, and some JavaScript frameworks Web3.js, Ether.js, and Next.js.**
-**🤳🏻 Also, have experience in Android development using Kotlin.**
-**I am a highly motivated and results-oriented individual with a strong work ethic. I am always eager to learn new things and take on new challenges.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">**
+- **🔭 Passionate about web3 technologies, with experience in blockchain, NFTs, and smart contracts.**
+- **🚀 Currently focused on Ethereum, and have worked on projects such as NFT minting Dapps, fund smart contracts, and lottery smart contracts.**
+- **🤩Worked on full-stack projects using React js, and some JavaScript frameworks Web3.js, Ether.js, and Next.js.**
+- **🤳🏻 Also, have experience in Android development using Kotlin.**
+- **I am a highly motivated and results-oriented individual with a strong work ethic. I am always eager to learn new things and take on new challenges.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">**
 
 ## 📫 How to reach me :
 <div>
