@@ -1,5 +1,5 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=40px></picture> **About me :**
-**I'm a Fresh Graduate in Computers & Systems Engineering, passionate to try new things.**
+**I'm a Fresh Graduate in Computers & Systems Engineering.**
 
 - **🔭 Passionate about web3 technologies, with experience in blockchain, NFTs, and smart contracts.**
 - **🚀 Currently focused on Ethereum, and have worked on projects such as NFT minting Dapps, fund smart contracts, and lottery smart contracts.**
