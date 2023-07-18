@@ -6,12 +6,6 @@
 </div>
 <br>
 
-<div id="header" align="center">
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/salma-ahmed-ali-79a88118b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=40px></picture> **About me :**
 I'm a Fresh Graduate in Computers & Systems Engineering, passionate to try new things. 
