@@ -1,10 +1,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=40px></picture> **About me :**
 **I'm a Fresh Graduate in Computers & Systems Engineering.**
 
-
-
-
-Additionally, I have a good experience in Android development using Kotlin.
 - **🔭 I'm really interested in web3 technologies. I have practical experience in blockchain, NFTs, and smart contracts.**
 - **🚀 Currently focused on Ethereum, and have worked on projects such as NFT minting Dapps, fund smart contracts, and lottery smart contracts.**
 - **🤩 I've worked on backend projects using Node js, Express, and MongoDB.**
