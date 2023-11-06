@@ -3,7 +3,7 @@
 
 - **🔭 I'm really interested in web3 technologies. I have practical experience in blockchain, NFTs, and smart contracts.**
 - **🚀 Currently focused on Ethereum, and have worked on projects such as NFT minting Dapps, fund smart contracts, and lottery smart contracts.**
-- **🤩 I've worked on backend projects using Node js, Express, and MongoDB.**
+- **🤩 I've worked on backend projects using Node js, and Express.**
 - **🤳🏻 Also, have experience in Android development using Kotlin.**
 - **I am a highly motivated and results-oriented individual with a strong work ethic. I am always eager to learn new things and take on new challenges.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">**
 
