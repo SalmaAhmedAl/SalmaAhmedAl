@@ -3,8 +3,7 @@
 - **🤩 I've worked on backend projects.**
   
 - **🔭 I'm really interested in web3 technologies. I have practical experience in blockchain, NFTs, and smart contracts.**
-- **🚀 Currently focused on Ethereum, and have worked on projects such as NFT minting Dapps, and fund smart contracts.**
-- **I am a highly motivated and results-oriented individual with a strong work ethic. I am always eager to learn new things and take on new challenges.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">**
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">**
 
 ## 📫 How to reach me :
 <div>
